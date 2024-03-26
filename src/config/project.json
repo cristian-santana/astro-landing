@@ -1,0 +1,24 @@
+{
+    "projects": [
+        {
+            "title": "Seguridad virtual",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam culpa libero provident aliquid natus laborum vero iusto beatae molestias similique, qui nam cumque illum sapiente quaerat eveniet ducimus ipsum earum nostrum dicta impedit atque corrupti. Minima doloribus expedita ex pariatur illo vitae eaque quas a, voluptates assumenda enim vero molestiae.",
+            "image": "images/fingerprint.svg"
+        },
+        {
+            "title": "Buscador",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam culpa libero provident aliquid natus laborum vero iusto beatae molestias similique, qui nam cumque illum sapiente quaerat eveniet ducimus ipsum earum nostrum dicta impedit atque corrupti. Minima doloribus expedita ex pariatur illo vitae eaque quas a, voluptates assumenda enim vero molestiae.",
+            "image": "images/buscador.svg"
+        },
+        {
+            "title": "Grafica",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam culpa libero provident aliquid natus laborum vero iusto beatae molestias similique, qui nam cumque illum sapiente quaerat eveniet ducimus ipsum earum nostrum dicta impedit atque corrupti. Minima doloribus expedita ex pariatur illo vitae eaque quas a, voluptates assumenda enim vero molestiae.",
+            "image": "images/grafica.svg"
+        },
+        {
+            "title": "App Clima",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam culpa libero provident aliquid natus laborum vero iusto beatae molestias similique, qui nam cumque illum sapiente quaerat eveniet ducimus ipsum earum nostrum dicta impedit atque corrupti. Minima doloribus expedita ex pariatur illo vitae eaque quas a, voluptates assumenda enim vero molestiae.",
+            "image": "images/appClima.svg"
+        }
+    ]
+}
